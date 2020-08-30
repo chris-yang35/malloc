@@ -40,18 +40,6 @@
  * NOTE TO STUDENTS: Before you do anything else, please
  * provide your team information in the following struct.
  ********************************************************/
-team_t team = {
-    /* Team name */
-    "ateam",
-    /* First member's full name */
-    "Nevin Liang 705575353",
-    /* First member's email address */
-    "nliang868@g.ucla.edu",
-    /* Second member's full name (leave blank if none) */
-    "",
-    /* Second member's email address (leave blank if none) */
-    ""
-};
 
 /* single word (4) or double word (8) alignment */
 #define ALIGNMENT 8
