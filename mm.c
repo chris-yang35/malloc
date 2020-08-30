@@ -26,8 +26,6 @@
  * this project made me a lot more familiar with how memory is allocated freed and reallocated
  * as well as why some structures are better than others.
  *
- * NOTE TO STUDENTS: Replace this header comment with your own header
- * comment that gives a high level description of your solution.
  */
 #include <stdio.h>
 #include <stdlib.h>
